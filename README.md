@@ -1,2 +1,2 @@
 # desktop-p1-releases
-Release feed for desktop profile p1.
+Download artifacts for desktop-p1-releases. This repository is a release feed, not the application source.
